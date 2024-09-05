@@ -1,0 +1,204 @@
+.nombre
+{
+    background-color: cadetblue;
+    height: 50px;
+    width: 300px;
+    position: fixed;
+    left: 500px;
+    padding: 15px;
+}
+h1
+{
+    color: sienna;
+    text-align: center;
+
+}
+.antena
+{
+    background-color: cadetblue;
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+    position: relative;
+    left: 150px;
+    top: 50px;
+}
+.lineaAntena
+{
+    background-color: cornflowerblue;
+    height: 100px;
+    width: 20px;
+    position: relative;
+    left: 190px;
+    top: 48px;
+}
+.cabeza
+{
+    background-color: brown;
+    height: 250px;
+    width: 250px;
+    border-radius: 10px;
+    position: relative;
+    left: 75px;
+}
+.ojo1
+{
+    background-color: antiquewhite;
+    height: 70px;
+    width: 70px;
+    border-radius: 10px;
+    position: absolute;
+    left: 35px;
+    top: 40px;
+}
+.iris1
+{
+    background-color: black;
+    height: 70px;
+    width: 15px;
+    border-radius: 10px;
+    position: absolute;
+    left: 25px;   
+}
+.ojo2
+{
+    background-color: antiquewhite;
+    height: 70px;
+    width: 70px;
+    border-radius: 10px;
+    position: absolute;
+    right: 35px;
+    top: 40px;
+}
+.iris2
+{
+    background-color: black;
+    height: 70px;
+    width: 15px;
+    border-radius: 10px;
+    position: absolute;
+    left: 25px;   
+}
+.nariz
+{
+    background-color: aquamarine;
+    height: 50px;
+    width: 50px;
+    border-bottom-left-radius: 35px;
+    border-bottom-right-radius: 35px;
+    position: absolute;
+    left: 100px;
+    top: 120px;
+}
+.cuello
+{
+    background-color: brown;
+    height: 20px;
+    width: 200px;
+    position: relative;
+    left: 100px;
+}
+.cuerpo
+{
+    background-color: brown;
+    border-radius: 15px;
+    height: 350px;
+    width: 300px;
+    position: relative;
+    left: 50px;
+}
+.brazo1
+{
+    background-color: black;
+    height: 300px;
+    width: 20px;
+    position: absolute;
+    left: -40px;
+    transform: rotate(15deg);
+}
+.brazo2
+{
+    background-color: black;
+    height: 300px;
+    width: 20px;
+    position: absolute;
+    right: -40px;
+    transform: rotate(-15deg);
+}
+.detalle1
+{
+    background-color: cadetblue;
+    border-radius: 15px;
+    height: 120px;
+    width: 250px;
+    position: absolute;
+    left: 20px;
+    top: 40px;
+}
+.detalle2
+{
+    background-color: cadetblue;
+    border-radius: 15px;
+    height: 120px;
+    width: 250px;
+    position: absolute;
+    left: 20px;
+    top: 200px;
+}
+.torso
+{
+    background-color: brown;
+    height: 30px;
+    width: 200px;
+    position: relative;
+    left: 100px;
+}
+.parteBaja
+{
+    background-color: brown;
+    border-radius: 15px;
+    height: 150px;
+    width: 300px;
+    position: relative;
+    left: 50px;
+}
+.pierna1
+{
+    background-color: cadetblue;
+    border-radius: 15px;
+    height: 120px;
+    width: 50px;
+    position: absolute;
+    left: 20px;
+    top: 20px;
+}
+.pierna2
+{
+    background-color: cadetblue;
+    border-radius: 15px;
+    height: 120px;
+    width: 50px;
+    position: absolute;
+    right: 20px;
+    top: 20px;
+}
+.pierna3
+{
+    background-color: cadetblue;
+    border-radius: 15px;
+    height: 120px;
+    width: 50px;
+    position: absolute;
+    left: 90px;
+    top: 20px;
+}
+.pierna4
+{
+    background-color: cadetblue;
+    border-radius: 15px;
+    height: 120px;
+    width: 50px;
+    position: absolute;
+    right: 90px;
+    top: 20px;
+}
